@@ -1,0 +1,17 @@
+# Python caches
+**/__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environments
+**/venv/
+**/.venv/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Common junk
+.vscode/
+.DS_Store
+Thumbs.db
